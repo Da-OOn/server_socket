@@ -1,6 +1,6 @@
 # Socket Communication Example
 
-This repository contains two Python scripts for demonstrating socket communication between a client and a server. The client executes a Python script (`main_cache.py`) and sends the results to the server.
+This repository contains two Python scripts for demonstrating socket communication between a client and a server. The client executes a Python script (`main_cache.py`) and sends the results to the server. This repository is for team Jaegal-DulDul!
 
 ## Files
 
@@ -11,27 +11,15 @@ This repository contains two Python scripts for demonstrating socket communicati
 
 ### Conda Virtual Environment
 
-It is recommended to use a conda virtual environment to manage dependencies and avoid conflicts. Follow the steps below to set up and activate the virtual environment:
+You can use an existing conda virtual environment to manage dependencies. Follow the steps below to activate your conda environment:
 
-1. Create a new conda environment:
-
-    ```bash
-    conda create --name socket_comm_env python=3.8
-    ```
-
-2. Activate the environment:
+1. Activate the environment:
 
     ```bash
-    conda activate socket_comm_env
+    conda activate your_existing_env
     ```
 
-3. Install necessary dependencies (if any):
-
-    ```bash
-    conda install <dependencies>
-    ```
-
-    Replace `<dependencies>` with the required packages.
+    Replace `your_existing_env` with the name of your conda environment.
 
 ### Server
 
