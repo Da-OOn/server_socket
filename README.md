@@ -1,4 +1,4 @@
-# Socket Communication Example
+# Socket Communication
 
 This repository contains two Python scripts for demonstrating socket communication between a client and a server. The client executes a Python script (`main_cache.py`) and sends the results to the server. This repository is for team Jaegal-DulDul!
 
